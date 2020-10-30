@@ -1,0 +1,104 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+   "parking":[
+     {
+
+     }
+   ],
+
+  "customers": [
+    {
+      "id": 1,
+      "name": "anuradha",
+      "email": "anuradharasal1013@gmail.com",
+      "tel": "8605869198"
+    },
+    {
+      "id": 2,
+      "name": "pushkar",
+      "email": "anuradhapushkar1013@gmail.com",
+      "tel": "7276456772"
+    },
+    {
+      "id": 3,
+      "name": "atul",
+      "email": "anuradha1013@gmail.com",
+      "tel": "9096661197"
+    },
+    {
+      "name": "xyz",
+      "tel": "67465",
+      "email": "abc@jf.com",
+      "id": 4
+    },
+    {
+      "name": "xyz",
+      "tel": "67465",
+      "email": "abc@jf.com",
+      "id": 5
+    },
+    {
+      "name": "xyz",
+      "tel": "67465",
+      "email": "abc@jf.com",
+      "id": 6
+    },
+    {
+      "name": "xyz",
+      "tel": "67465",
+      "email": "abc@jf.com",
+      "id": 7
+    },
+    {
+      "name": "xyz",
+      "tel": "67465",
+      "email": "abc@jf.com",
+      "id": 8
+    },
+    {
+      "name": "xyz",
+      "tel": "67465",
+      "email": "abc@jf.com",
+      "id": 9
+    },
+    {
+      "name": "xyz",
+      "tel": "67465",
+      "email": "abc@jf.com",
+      "id": 10
+    },
+    {
+      "name": "anu",
+      "tel": "67465",
+      "email": "abc@jf.com",
+      "id": 11
+    },
+    {
+      "name": "anud",
+      "tel": "67465",
+      "email": "abc@jf.com",
+      "id": 12
+    },
+    {
+      "name": "anuea",
+      "tel": "67465654654",
+      "email": "abcd@jf.com",
+      "id": 13
+    },
+    {
+      "name": "xyz",
+      "tel": "67465",
+      "email": "abc@jf.com",
+      "id": 14
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
